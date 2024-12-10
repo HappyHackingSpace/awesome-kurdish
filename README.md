@@ -25,23 +25,30 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 ## Language Resources
 
 ### Dictionaries and Corpora
-
-*(This section is intentionally left empty.)*
+- [Glosbe](https://glosbe.com/) - Glosbe can be used as a platform for translating Kurdish (Kurmanji) into various languages
+- [Ferheng Kurdi](https://ferhengkurdi.org/) - Ferheng Kurdi can be used as a platform for translating Kurdish (Kurmanji) into various languages
+- [Roj Dictionary](https://github.com/0xdolan/roj_dictionary) - Roj Dictionary is an English to Kurdish (Sorani) Dictionary.
 
 ### Datasets
 
-*(This section is intentionally left empty.)*
+- [Data.krd](https://data.krd/) - DataKrd is dedicated to making Kurdish datasets accessible to all.
 
 ### Language Learning
 
-*(This section is intentionally left empty.)*
+- [50Languages](https://www.50languages.com/kurdish-kurmanji-for-free) - A free website used for learning Kurdish.
 
 ## Natural Language Processing
 
 ### Libraries and Tools
 
 - [Character Convertor](https://github.com/0xdolan/kurdish) - Kurdish Language Library for converting characters and digits in Persian, English and Arabic to Kurdish and vice versa.
-- [KurdishHunspell](https://github.com/sinaahmadi/KurdishHunspell) - A morphological analyzer and spell checker for Kurdish in Hunspell
+- [KurdishHunspell](https://github.com/sinaahmadi/KurdishHunspell) - A morphological analyzer and spell checker for Kurdish in Hunspell.
+- [kurdinusLibrary](https://github.com/Kurdinus/kurdinusLibrary) - Kurdînûs is pure JavaScript tools for Kurdish language texts.
+- [Kurdish number to words](https://github.com/Mawlood-Fareq/kurdish-number-towords) - Converts Numbers (including decimal points) into words for Central Kurdish Language. It also converts the numbers into words for currency.
+- [Kurdish-BLARK](https://github.com/hosseinhassani/Kurdish-BLARK) - This project consists of a set of basic tools developed in Python 2.7 as part of the Kurdish BLARK project and a corpus for the Kurmanji and Sorani dialects of Kurdish. The tools include a transliterator, tokenizer, stemmer, word-level translator using a bidialectal dictionary, proper names recognizer, and utilities for building and sorting dictionaries.
+- [KurdishTokenization](https://github.com/sinaahmadi/KurdishTokenization) - A Tokenization System for the Kurdish Language (Sorani & Kurmanji dialects).
+- [kurdish-llama](https://github.com/RazhanHameed/kurdish-llama) - This is an attempt to fine-tune the Llama model released by Meta for Central Kurdish. The initial model was then fine-tuned on a set of instructions provided by Stanford's Alpaca project.
+
 
 ### Machine Translation
 
@@ -63,8 +70,6 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 
 ### Localization Projects
 - [Flutter Kurdish Localization](https://github.com/aminsamad/flutter_kurdish_localization) -  Localization support for Central Kurdish Branch Sorani (Kurdish: سۆرانی ,Soranî‎)
-
-*(This section is intentionally left empty.)*
 
 ## Communities and Organizations
 
