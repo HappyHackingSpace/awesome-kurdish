@@ -27,11 +27,15 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 ### Dictionaries and Corpora
 - [Glosbe](https://glosbe.com/) - Glosbe can be used as a platform for translating Kurdish (Kurmanji) into various languages
 - [Ferheng Kurdi](https://ferhengkurdi.org/) - Ferheng Kurdi can be used as a platform for translating Kurdish (Kurmanji) into various languages
+- [Ferhengco](https://ferheng.co/) - Ferheng.co is an Kurdish (Kurmanji) - Turkish Dictionary.
 - [Roj Dictionary](https://github.com/0xdolan/roj_dictionary) - Roj Dictionary is an English to Kurdish (Sorani) Dictionary.
 
 ### Datasets
 
 - [Data.krd](https://data.krd/) - DataKrd is dedicated to making Kurdish datasets accessible to all.
+- [Kurdish Songs](https://www.kaggle.com/datasets/jagaryousef/5000-kurdish-songs) - More than 5000 Kurdish (Kurmanji) songs with their artists.
+- [Kurdish (Kurmanji) Proverbs](https://www.kaggle.com/datasets/jagaryousef/kurdish-kurmanji-proverbs) - Short Kurdish (Kurmanji) sentences (actually proverbs) can be used for testing purposes.
+- [Kurdish Words](https://www.kaggle.com/datasets/jagaryousef/60000-kurdish-words) - This data is collected from different sources and it includes more than 60000 Kurdish Kurmanji words.
 
 ### Language Learning
 
@@ -48,6 +52,7 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 - [Kurdish-BLARK](https://github.com/hosseinhassani/Kurdish-BLARK) - This project consists of a set of basic tools developed in Python 2.7 as part of the Kurdish BLARK project and a corpus for the Kurmanji and Sorani dialects of Kurdish. The tools include a transliterator, tokenizer, stemmer, word-level translator using a bidialectal dictionary, proper names recognizer, and utilities for building and sorting dictionaries.
 - [KurdishTokenization](https://github.com/sinaahmadi/KurdishTokenization) - A Tokenization System for the Kurdish Language (Sorani & Kurmanji dialects).
 - [kurdish-llama](https://github.com/RazhanHameed/kurdish-llama) - This is an attempt to fine-tune the Llama model released by Meta for Central Kurdish. The initial model was then fine-tuned on a set of instructions provided by Stanford's Alpaca project.
+- [Kurdish Language Processing Toolkit](https://github.com/sinaahmadi/klpt) - Kurdish Language Processing Toolkit--KLPT is a natural language processing (NLP) toolkit in Python for the Kurdish language. The current version comes with four core modules, namely preprocess, stem, transliterate and tokenize and addresses basic language processing tasks such as text preprocessing, stemming, tokenization, spell-checking and morphological analysis for the Sorani and the Kurmanji dialects of Kurdish.
 
 
 ### Machine Translation
@@ -64,7 +69,9 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 
 ## Academic Research
 
-*(This section is intentionally left empty.)*
+- [A Tokenization System for the Kurdish Language](https://aclanthology.org/2020.vardial-1.11/) - This study proposes a lexicon and morphological analyzer-based approach for tokenizing the Sorani and Kurmanji dialects of Kurdish. The developed annotated dataset demonstrates superior performance compared to unsupervised methods.
+- [The Kurdish Language Corpus: State of the Art](https://aclanthology.org/2020.vardial-1.11/) - This paper reviews Kurdish language corpora, highlighting challenges like scarce resources and lack of unified orthography, and emphasizes the need for annotated corpora to support machine-readable text and intelligent applications.
+- [KLPT – Kurdish Language Processing Toolkit](https://aclanthology.org/2020.vardial-1.11/) - This paper introduces a Kurdish language processing toolkit to address the lack of basic tools for this under-resourced language, which includes components like tokenization, stemming, and lemmatization. The toolkit is extendable by future developers and is publicly available.
 
 ## Programming Resources
 
