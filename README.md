@@ -48,6 +48,8 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 - [kurdish-twitter-data](https://github.com/ftkurt/kurdish-twitter-data) - Kurdish twitter data repository for Kurmanji and Sorani dialects.
 - [Kurdish News Summarization Dataset](https://data.mendeley.com/datasets/jbvrd44m5g/1) - The KNSD contains 130,000 Kurdish news articles and headlines for news summarization.
 - [Mendeley Database](https://data.mendeley.com/) - Database
+- [Kurdish_TextCorpus](https://huggingface.co/datasets/abdulhade/Kurdish_TextCorpus) - Soranice dataset containing 5.72 million data points
+- [KurdishTextCorpus 774k](https://huggingface.co/datasets/abdulhade/KurdishTextCorpus) - News data Soranice contains 774k data points
 
 
 
@@ -92,7 +94,6 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 - [KLPT – Kurdish Language Processing Toolkit](https://aclanthology.org/2020.vardial-1.11/) - This paper introduces a Kurdish language processing toolkit to address the lack of basic tools for this under-resourced language, which includes components like tokenization, stemming, and lemmatization. The toolkit is extendable by future developers and is publicly available.
 - [KuBERT: Central Kurdish BERT Model and Its Application for Sentiment Analysis](https://www.researchsquare.com/article/rs-4552724/v1) - This paper enhances Kurdish sentiment analysis using BERT, achieving better accuracy than traditional models.
 - [Iraqi Legal Gpt](https://ieeexplore.ieee.org/abstract/document/10548909?casa_token=jflu2lyqCQcAAAAA:aUlobBKBexV0J0Ln1hpCx_vSy9fChMTmbB_N8rMDiWF7qUiU51Rh-gYcAZRcUIj8jByuWJm_ntc9) - This paper introduces a small AI chatbot for offline legal information in Iraqi law with 80% accuracy.
-- [Kurdish News Dataset Headlines (KNDH) through multiclass classification](https://www.sciencedirect.com/science/article/pii/S2352340923002391) - KNDH is a dataset of 50,000 Kurdish news headlines across five categories for text classification.
 - [Kurdish News Dataset Headlines (KNDH) through multiclass classification](https://www.sciencedirect.com/science/article/pii/S2352340923002391) - KNDH is a dataset of 50,000 Kurdish news headlines across five categories for text classification.
 - [A Kurdish Sorani Twitter dataset for language modelling](https://www.sciencedirect.com/science/article/pii/S2352340924009296) - This paper presents a Kurdish sentiment analysis dataset of 24,668 labeled tweets.
 - [Medical dataset classification for Kurdish short text over social media](https://www.sciencedirect.com/science/article/pii/S2352340922003006) - The MKD contains 6,756 Facebook comments classified into medical and non-medical categories.
