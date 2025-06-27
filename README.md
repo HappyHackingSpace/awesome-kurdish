@@ -81,11 +81,14 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 
 ### Speech Recognition
 
-*(This section is intentionally left empty.)*
+- [ElevenLabs (Kurdish)](https://elevenlabs.io/speech-to-text/central-kurdish) - Free Central Kurdish speech to text using our advanced AI transcription tool, Scribe. Transcribe Central Kurdish voice, audio, and speech with industry-leading accuracy—Scribe outperforms Google Gemini and OpenAI Whisper, delivering a word error rate of just 3.1% on the FLEURS benchmark and 5.5% on Common Voice. Get accurate Central Kurdish transcriptions for films, podcasts, business meetings, medical dictation, and more.
+- [KURD.AI](https://kurd.ai/) - A comprehensive platform offering AI services chat, image, text-to-voice, and more for diverse needs.
 
 ### Text-to-Speech
 
-*(This section is intentionally left empty.)*
+- [Kurmanji Text-to-Speech (HF)](https://huggingface.co/spaces/amedcj/kmr_tts) - Bernameya Nivîs-bo-Deng ya bi kurmancî - Kurmanji Text-to-Speech.
+- [AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish](https://github.com/AsoSoft/AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish) - Speech data in the Kurdish language and associated resources such as tags are among the most essential language resources needed for NLP research and applications such as speech synthesis and automatic speech recognition, etc. Speech data for Central Kurdish was created and gathered to use in speech synthesis and automatic speech recognition as part of this project. In order to create this corpus, 21 hours of speech have been recorded and transcribed.
+- [Kurdish TTS](https://www.kurdishtts.com/) - Experience the power of Kurdish Sorani and Kurmanji Text-to-Speech technology, completely free. Transform your text into natural-sounding Kurdish speech, supporting both major dialects.
 
 ## Academic Research
 
