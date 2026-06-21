@@ -29,6 +29,8 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 - [Ferheng Kurdi](https://ferhengkurdi.org/) - Ferheng Kurdi can be used as a platform for translating Kurdish (Kurmanji) into various languages
 - [Ferhengco](https://ferheng.co/) - Ferheng.co is an Kurdish (Kurmanji) - Turkish Dictionary.
 - [Roj Dictionary](https://github.com/0xdolan/roj_dictionary) - Roj Dictionary is an English to Kurdish (Sorani) Dictionary.
+- [ZazaGoraniCorpus](https://github.com/sinaahmadi/ZazaGoraniCorpus) - A corpus for two endangered languages of the Zaza-Gorani family (Zazaki and Gorani), also including Southern Kurdish (Feyli) data.
+- [InterdialectCorpus](https://github.com/KurdishBLARK/InterdialectCorpus) - A parallel corpus of 12,327 translation pairs across the two major Kurdish dialects (Sorani and Kurmanji), plus English-Kurdish pairs, in TMX/ParaConc/text formats.
 
 ### Datasets
 
@@ -50,6 +52,9 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 - [Mendeley Database](https://data.mendeley.com/) - Database
 - [Kurdish_TextCorpus](https://huggingface.co/datasets/abdulhade/Kurdish_TextCorpus) - Soranice dataset containing 5.72 million data points
 - [KurdishTextCorpus 774k](https://huggingface.co/datasets/abdulhade/KurdishTextCorpus) - News data Soranice contains 774k data points
+- [Adyan: A High-Quality Automated NER Dataset for Sorani Kurdish](https://data.mendeley.com/datasets/6gffcrcj75/2) - The first high-quality automatically annotated Sorani Kurdish NER dataset, with 654,404 labeled tokens across 2,300 news articles and 15 entity types (BIO tagging).
+- [PawanKrd corpus-ckb](https://huggingface.co/PawanKrd) - A large Central Kurdish (Sorani) corpus of 2.13M entries, alongside ASR (217k samples) and TTS (16.3k samples) datasets for Kurdish language processing.
+- [PARME](https://github.com/DOLMA-NLP/PARME) - Parallel corpora and machine-translation resources for eight under-represented Middle Eastern languages, including Southern Kurdish, Laki Kurdish, and Zazaki (36,000+ translated sentences).
 
 
 
@@ -73,22 +78,32 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 - [kurdi](https://github.com/layik/kurdi) - Various Kurdi related work done by Kurdish developers.
 - [kurdish_news](https://github.com/0xdolan/kurdish_news?tab=readme-ov-file) - Kurdish News sources.
 - [AI2001_Category-Linguistics-SC-Kurdish](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kurdish) - linguistic:Kurdish category for AI2001, containing Kurdish language linguistic datasets.
+- [KurdishLID](https://github.com/sinaahmadi/KurdishLID) - A fastText-based language identification tool for Kurdish and Zaza-Gorani languages and variants (Kurmanji, Sorani, Southern Kurdish, Gorani/Hawrami, Zazaki), with optional script detection.
+- [KurdBERT](https://huggingface.co/language-ml-lab/KurdBert) - A pre-trained BERT language model tailored for Kurdish (Sorani and Kurmanji), usable for downstream tasks like text classification and named entity recognition.
 
 
 ### Machine Translation
 
-*(This section is intentionally left empty.)*
+- [PARME](https://github.com/DOLMA-NLP/PARME) - Parallel corpora plus NLLB fine-tuning scripts for eight under-represented Middle Eastern languages, including Southern Kurdish, Laki Kurdish, and Zazaki.
+- [InterdialectCorpus](https://github.com/KurdishBLARK/InterdialectCorpus) - Aligned Sorani-Kurmanji-English translation pairs suitable for training and evaluating inter-dialect and Kurdish machine translation.
 
 ### Speech Recognition
 
 - [ElevenLabs (Kurdish)](https://elevenlabs.io/speech-to-text/central-kurdish) - Free Central Kurdish speech to text using our advanced AI transcription tool, Scribe. Transcribe Central Kurdish voice, audio, and speech with industry-leading accuracy—Scribe outperforms Google Gemini and OpenAI Whisper, delivering a word error rate of just 3.1% on the FLEURS benchmark and 5.5% on Common Voice. Get accurate Central Kurdish transcriptions for films, podcasts, business meetings, medical dictation, and more.
 - [KURD.AI](https://kurd.ai/) - A comprehensive platform offering AI services chat, image, text-to-voice, and more for diverse needs.
+- [PawanKrd ASR (asr-large-ckb / asr-tiny-ckb)](https://huggingface.co/PawanKrd) - Central Kurdish (Sorani) automatic speech recognition models on Hugging Face, ranging from a 37.8M-parameter tiny model to a 2B-parameter large model.
+- [whisper-kurmanji](https://huggingface.co/amedcj/whisper-kurmanji) - A Whisper model fine-tuned for Kurmanji (Northern Kurdish) automatic speech recognition.
+- [Kurdish Speech-to-Text (razhan)](https://huggingface.co/collections/razhan/kurdish-speech-to-text) - A collection of Whisper-based Central Kurdish (Sorani) ASR models (whisper-base-ckb and whisper-small-ckb).
+- [whisper-small-Kurdish-Sorani](https://huggingface.co/roshna-omer/whisper-small-Kurdish-Sorani) - A Whisper-small model fine-tuned for Sorani (Central Kurdish) automatic speech recognition.
+- [AsoSoft Speech Corpus](https://github.com/AsoSoft/AsoSoft-Speech-Corpus) - A ~30-hour Central Kurdish speech corpus (45 speakers) with word and phonetic transcriptions for speech recognition, speaker recognition, and phonetic analysis.
 
 ### Text-to-Speech
 
 - [Kurmanji Text-to-Speech (HF)](https://huggingface.co/spaces/amedcj/kmr_tts) - Bernameya Nivîs-bo-Deng ya bi kurmancî - Kurmanji Text-to-Speech.
 - [AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish](https://github.com/AsoSoft/AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish) - Speech data in the Kurdish language and associated resources such as tags are among the most essential language resources needed for NLP research and applications such as speech synthesis and automatic speech recognition, etc. Speech data for Central Kurdish was created and gathered to use in speech synthesis and automatic speech recognition as part of this project. In order to create this corpus, 21 hours of speech have been recorded and transcribed.
 - [Kurdish TTS](https://www.kurdishtts.com/) - Experience the power of Kurdish Sorani and Kurmanji Text-to-Speech technology, completely free. Transform your text into natural-sounding Kurdish speech, supporting both major dialects.
+- [PawanKrd TTS (tts-ckb)](https://huggingface.co/PawanKrd) - A Central Kurdish (Sorani) text-to-speech model on Hugging Face.
+- [MMS-TTS Kurmanji (facebook/mms-tts-kmr-script_arabic)](https://huggingface.co/facebook/mms-tts-kmr-script_arabic) - Meta's Massively Multilingual Speech VITS text-to-speech checkpoint for Northern Kurdish (Kurmanji, Arabic script).
 
 ## Academic Research
 
@@ -102,6 +117,11 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 - [Medical dataset classification for Kurdish short text over social media](https://www.sciencedirect.com/science/article/pii/S2352340922003006) - The MKD contains 6,756 Facebook comments classified into medical and non-medical categories.
 - [Dataset for the recognition of Kurdish sound dialects](https://www.sciencedirect.com/science/article/pii/S2352340924002026) - This paper presents a Kurdish dialect recognition dataset for improving speech recognition systems.
 - [TooKLPT – Kurdish Language Processing Toolkit](https://aclanthology.org/2020.nlposs-1.11/) - Toolkit Article and Video.
+- [Language and Speech Technology for Central Kurdish Varieties](https://arxiv.org/abs/2403.01983) - (LREC-COLING 2024) Develops corpora and tools for under-served Central Kurdish varieties, evaluating machine translation, ASR, and language identification.
+- [End-to-End Transformer-based ASR for Northern Kurdish: A Pioneering Approach](https://arxiv.org/abs/2410.16330) - Fine-tunes Whisper on ~68 hours of Kurmanji speech, reaching a 10.5% word error rate.
+- [Breaking Walls: Pioneering Automatic Speech Recognition for Central Kurdish](https://arxiv.org/abs/2406.02561) - Builds a 100-hour Central Kurdish speech corpus and a Wav2vec 2.0-based ASR system reaching ~10% WER.
+- [Enhancing Kurdish Text-to-Speech with Native Corpus Training: A WaveGlow Vocoder Approach](https://arxiv.org/abs/2409.13734) - Improves a Tacotron-based Central Kurdish TTS system by training a WaveGlow vocoder on a 21-hour native corpus.
+- [Adyan: Automated Annotating Named Entity Recognition Dataset for Sorani Kurdish](https://pmc.ncbi.nlm.nih.gov/articles/PMC12433466/) - Presents the first high-quality automatically annotated Sorani Kurdish NER dataset (654k tokens, 15 entity types).
 
 
 
@@ -112,7 +132,10 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 
 ## Communities and Organizations
 
-*(This section is intentionally left empty.)*
+- [AsoSoft](https://github.com/AsoSoft) - A group working on Kurdish language technology, publishing speech corpora, TTS resources, and NLP tools for Central Kurdish.
+- [KurdishBLARK](https://github.com/KurdishBLARK) - The Kurdish Basic Language Resource Kit project, hosting corpora and tools for the Kurdish dialects.
+- [DOLMA-NLP](https://github.com/DOLMA-NLP) - Research group producing parallel corpora and MT resources for under-represented Middle Eastern languages, including several Kurdish dialects (PARME).
+- [language-ml-lab](https://huggingface.co/language-ml-lab) - A language modeling lab publishing pre-trained Kurdish models such as KurdBERT on Hugging Face.
 
 ## Contributing
 
